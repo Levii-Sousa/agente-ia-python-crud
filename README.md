@@ -27,6 +27,6 @@ Este projeto apresenta um **Agente Inteligente** desenvolvido em Python, capaz d
 ├── banco_clientes.db  # Banco de dados local SQLite
 ├── pasta/             # Arquivos complementares de lógica
 ├── venv/              # Ambiente virtual do projeto
-└── main.py            # Ponto de entrada da aplicação (se houver)├── pasta/             # Arquivos complementares de lógica
+└── main.py            # Ponto de entrada da aplicação 
 ├── venv/              # Ambiente virtual do projeto
-└── main.py            # Ponto de entrada da aplicação (se houver)
+└── main.py            # Ponto de entrada da aplicação 
